@@ -263,7 +263,7 @@ export default function XiaoshuoSelectedWebsite() {
             </p>
             <div className="mt-8 flex flex-col justify-center gap-4 sm:flex-row">
               <a href="mailto:hello@xiaotalk.org" className="rounded-full bg-neutral-950 px-8 py-3 font-black text-white hover:bg-neutral-800">
-                business@example.com
+                hello@xiaotalk.org
               </a>
               <a href="#" className="rounded-full border border-neutral-300 px-8 py-3 font-black text-neutral-950 hover:bg-neutral-100">
                 Telegram 咨询入口
