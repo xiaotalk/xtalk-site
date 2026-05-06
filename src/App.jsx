@@ -262,7 +262,7 @@ export default function XiaoshuoSelectedWebsite() {
               无论你是需要资源的海外华人，还是希望合作的律师、翻译、会计、保险经纪、AI工具团队或华人服务商，都可以通过以下方式联系。
             </p>
             <div className="mt-8 flex flex-col justify-center gap-4 sm:flex-row">
-              <a href="mailto:business@example.com" className="rounded-full bg-neutral-950 px-8 py-3 font-black text-white hover:bg-neutral-800">
+              <a href="mailto:hello@xiaotalk.org" className="rounded-full bg-neutral-950 px-8 py-3 font-black text-white hover:bg-neutral-800">
                 business@example.com
               </a>
               <a href="#" className="rounded-full border border-neutral-300 px-8 py-3 font-black text-neutral-950 hover:bg-neutral-100">
